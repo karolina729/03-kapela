@@ -1,5 +1,12 @@
+.btn.btn-outline-primary {
+    border-color: #a56dda;
+    color: rgb(165, 109, 218);
+}
 
-
+.btn.btn-outline-primary:hover {
+    background-color: rgb(165, 109, 218);
+    color: black;
+}
 .logo {width: 50%;}
 
 .nav-item a {font-size: 170%;
@@ -18,4 +25,25 @@ padding-right: 20%;}
     left: 50%;
     transform: translate(-50%, -50%);
     width: 57%;
+}
+
+li.nav-item > a.nav-link{
+    color: aliceblue;
+}
+
+li.nav-item > a.nav-link:hover {
+    color: #a56dda !important;
+}
+
+.container {
+    text-align: center;
+    gap: 20%;
+}
+
+.image {
+    display: inline-block;
+    margin: auto;
+    width: 8%;
+    margin-left: 2%;
+    margin-right: 2%;
 }
