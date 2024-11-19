@@ -48,3 +48,8 @@ li.nav-item > a.nav-link:hover {
     margin-left: 2%;
     margin-right: 2%;
 }
+
+.rounded {
+    width: 25%;
+
+}
