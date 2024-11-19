@@ -53,3 +53,36 @@ li.nav-item > a.nav-link:hover {
     width: 25%;
 
 }
+
+.container {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.container h1 {
+    font-size: 300%;
+    margin-top: 5%;
+}
+.container p {
+    font-size: 200%;
+}
+
+.container h2 {
+    margin-top: 10%;
+    font-size: 300%;
+    margin-bottom: 2%;
+}
+
+.carousel-inner img {
+   height: 580px;
+    object-fit: cover;
+}
+
+.alb h1 {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
