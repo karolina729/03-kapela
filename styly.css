@@ -8,6 +8,10 @@
     color: black;
 }
 
+body {
+    background-color: black !important;
+}
+
 .logo {
     width: 50%;
 }
@@ -110,6 +114,19 @@ li.nav-item>a.nav-link:hover {
     color: #a56dda;
 }
 
+.kon1 {
+    margin-top: 5%;
+}
+
+.kon2 {
+    margin-top: 4%;
+    color: aliceblue !important;
+}
+
+.kon3 {
+    margin-top: 4%;
+}
+
 .bio h1 {
     font-size: 300%;
     color: #a56dda;
@@ -127,9 +144,21 @@ li.nav-item>a.nav-link:hover {
     margin-left: 20px;
     text-align: center;
     font-size: 150%;
+    margin-top: 10%;
+}
+
+.biog1 {
+    margin-left: 20px;
+    text-align: center;
+    font-size: 150%;
+    margin-top: 5%;
 }
 
 .biog h1 {
+    color: #a56dda;
+}
+
+.biog1 h1 {
     color: #a56dda;
 }
 
@@ -143,4 +172,118 @@ li.nav-item>a.nav-link:hover {
     margin-right: 20px;
     width: 45%;
     margin-top: 10%;
+}
+
+.navbar-brand {
+    margin-left: 12%; 
+    width: 15%;
+}
+
+.nav-item1 {
+    margin-left: 50px;
+    font-size: 180%;
+}
+
+.nav-item2 {
+    margin-left: 60px;
+    font-size: 180%;
+}
+
+.nav-item3 {
+    margin-left: 65px;
+    font-size: 180%;
+}
+
+.nav-item4 {
+    margin-left: 70px;
+    font-size: 180%;
+}
+
+.nav-item5 {
+    margin-left: 70px;
+    font-size: 180%;
+}
+
+.footer {
+    margin-bottom: 0; 
+    padding-bottom: 0;
+    margin-top: 5%;
+    background-color: rgb(34, 34, 34);
+}
+
+.card {
+    max-width: 1000px;
+    margin: auto;
+    background-color: rgb(34, 34, 34) !important;
+    color: aliceblue !important;
+    margin-top: 4%;
+}
+
+.card-body {
+    margin-top: 5%;
+}
+
+.card-title {
+    font-size: 200%;
+}
+
+.img-fluid {
+    width: 200%;
+}
+
+.mb-2 {
+    text-align: center; 
+    color: #a56dda;
+    margin-top: 4%;
+}
+
+.grid {
+    margin: auto; 
+    display: block;
+     text-align: center;
+     margin-top: 4%;
+}
+
+.od  {
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+.carousel-item {
+    background-color: black !important;
+     display: inline-block;
+      padding: 10px;
+       width: fit-content;
+       margin: auto;
+        margin-bottom: 2%;
+         border-radius: 11%;
+}
+
+.carousel-caption {
+    background-color: black !important;
+    display: inline-block;
+    padding: 10px;
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 2%;
+         border-radius: 11%;
+}
+
+.btn {
+    margin-top: 5%;
+}
+
+.kontakt h1 {
+    color: #a56dda !important;
+    text-align: center;
+     margin-top: 5%;
+}
+
+.col-md-mx {
+    color: aliceblue !important;
+     margin: auto; 
+     margin-top: 1%; 
+     padding: 4%; 
+     font-size: larger;
 }
